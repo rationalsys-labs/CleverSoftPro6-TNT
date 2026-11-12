@@ -1,0 +1,18 @@
+* text=auto
+*.vbp text eol=crlf
+*.frm text eol=crlf
+*.bas text eol=crlf
+*.cls text eol=crlf
+*.ctl text eol=crlf
+*.Dsr text eol=crlf
+*.dsr text eol=crlf
+*.ps1 text eol=crlf
+*.md text eol=lf
+*.sql text eol=lf
+*.frx binary
+*.dsx binary
+*.ctx binary
+*.jpg binary
+*.png binary
+*.xlsx binary
+*.exe binary

@@ -1,0 +1,8 @@
+bin/*
+.local/
+*.vbw
+*.log
+*.exe
+*.obj
+*.tmp
+*.inspect.ndjson
